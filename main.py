@@ -3,7 +3,7 @@ from example_config import * # This file have some example configs that you can 
 
 # Simple Usage
 ## 1️⃣ Import Logu Client
-from pylogu.client import Logu
+from pylogu import Logu
 
 ## 2️⃣ Initialize the Logu client
 logu = Logu(LOGU_API_KEY, LOGU_PROJECT, LOGU_CHANNEL)
@@ -21,11 +21,12 @@ logu.insight(LOGU_INSIGHT, LOGU_ICON, LOGU_INSIGHT_VALUE)
 # logu.insight(LOGU_PROJECT, LOGU_INSIGHT, LOGU_ICON, LOGU_INSIGHT_VALUE)
 
 
+### --- ###
 
 
 # Usage Example
 ## 1️⃣ Import Logu Client
-from logu.client import Logu
+from pylogu import Logu
 
 ## 2️⃣ Initialize the Logu client
 logu = Logu(
@@ -65,11 +66,12 @@ insight_response = logu.insight(
 print("Insight Response:", insight_response)
 
 
+### --- ###
 
 
 # ⚠️ For Test Purposes Only ⚠️
 ## 1️⃣ Import Logu Client
-from logu.client import Logu
+from pylogu import Logu
 
 ## 2️⃣ Initialize the Logu client
 logu = Logu(

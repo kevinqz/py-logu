@@ -35,7 +35,7 @@ poetry add pylogu
 # Simple Usage
 ## 1️⃣ Import Logu Client
 ```python
-from logu.client import Logu
+from pylogu import Logu
 ```
 
 ## 2️⃣ Initialize the Logu client
@@ -66,7 +66,7 @@ logu.insight(LOGU_INSIGHT, LOGU_ICON, LOGU_INSIGHT_VALUE)
 # Usage Example
 ## 1️⃣ Import Logu Client
 ```python
-from logu.client import Logu
+from pylogu import Logu
 ```
 
 ## 2️⃣ Initialize the Logu client
