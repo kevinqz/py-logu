@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: logu
+Version: 0.1.0
+Summary: Logu - Python SDK
+Home-page: https://github.com/kevinqz/logu-sdk
+Author: Kevin Saltarelli
+Author-email: kevinqz@gmail.com
+Requires-Python: >=3.7
+License-File: LICENSE.md

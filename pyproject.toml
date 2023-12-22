@@ -9,6 +9,8 @@ python = ">=3.10.0,<3.11"
 requests = "^2.31.0"
 logu = "^0.1"
 httpx = "^0.25.2"
+wheel = "^0.42.0"
+twine = "^4.0.2"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
