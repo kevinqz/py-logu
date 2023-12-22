@@ -1,6 +1,21 @@
 # Logu SDK
 
+The `py-logu` library offers a powerful yet intuitive interface for integrating Logu's real-time monitoring and analytics capabilities into your Python applications. Designed with an emphasis on Developer Experience, it provides easy-to-use functionalities for logging events, identifying users, and gaining insights, all with real-time updates and custom notifications.
 
+## Key Features
+- **Developer-Friendly**: Straightforward setup and easy integration.
+- **Customizable Logging**: Tailor log details to your project's needs.
+- **User Identification**: Easily track and manage user data.
+- **Insightful Analytics**: Gain valuable insights with minimal setup.
+- **Real-Time Updates**: Stay up-to-date with the latest data.
+
+## About Logu
+
+Revolutionize your business with Logu – the epitome of simplicity and efficiency. Enjoy an unparalleled Developer Experience, an intuitive log interface, and customized notifications. Stay ahead with real-time insights. Logu isn't just a tool; it's your pathway to smarter, faster business decisions.
+
+Start using at: www.logu.app
+
+---
 
 # Simple Usage
 ## 1️⃣ Import Logu Client
@@ -31,6 +46,7 @@ logu.insight(LOGU_INSIGHT, LOGU_ICON, LOGU_INSIGHT_VALUE)
 # logu.insight(LOGU_PROJECT, LOGU_INSIGHT, LOGU_ICON, LOGU_INSIGHT_VALUE)
 ```
 
+---
 
 # Usage Example
 ## 1️⃣ Import Logu Client
@@ -83,6 +99,7 @@ insight_response = logu.insight(
 print("Insight Response:", insight_response)
 ```
 
+---
 
 # ⚠️ For Test Purposes Only ⚠️
 
@@ -139,4 +156,3 @@ insight_response = logu.insight(
 )
 print("Insight Response:", insight_response)
 ```
-
