@@ -3,7 +3,7 @@ from example_config import * # This file have some example configs that you can 
 
 # Simple Usage
 ## 1️⃣ Import Logu Client
-from logu.client import Logu
+from pylogu.client import Logu
 
 ## 2️⃣ Initialize the Logu client
 logu = Logu(LOGU_API_KEY, LOGU_PROJECT, LOGU_CHANNEL)

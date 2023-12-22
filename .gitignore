@@ -1,0 +1,7 @@
+.local/
+.pythonlibs/
+.upm/
+.env
+.git
+__pycache__
+UPDATING.md

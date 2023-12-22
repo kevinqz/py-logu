@@ -1,9 +1,51 @@
-__pycache__
-.ccignore
-.cache
-.local
-.pythonlibs
-.upm
-.replit
+# Click Copy Replit Extension - .ccignore Configuration
+
+# Welcome to the configuration file for Click Copy Replit Extension.
+# This file is used to specify which files and directories should be ignored by the extension
+# when copying your project to a new environment.
+
+# It's important to organize your ignore rules to keep your codebase clean and prevent
+# unnecessary files from being copied. Below, we've categorized the ignored files
+# based on their nature to help you understand why they are excluded from the copying process.
+
+# Version Control Files
+.git/
+.db/
+
+# Temporary and cache files often generated during development.
+# These files can be safely ignored to keep the codebase clean.
+.config/
+__pycache__/
+.cache/
+.log/
+__init__.py/
+
+# Build and Dependency Files
+# These files are related to project dependencies, build configurations, and virtual environments.
+# Developers can recreate these files from project specifications and should not include them in the repo.
+.upm/
+.replit/
+./venv/
+.poetry/
+Makefile
 poetry.lock
 pyproject.toml
+requirements.txt
+
+# Environment and Configuration Files
+# These files store environment-specific or configuration information.
+# It's best to keep them out of the code repository to avoid exposing sensitive data.
+.upm/
+.replit.nix
+.start.sh
+.env
+
+# Miscellaneous
+# This section includes various miscellaneous files.
+# Some of these files may not be actively used and can be safely ignored.
+.ccignore
+.gitignore
+.breakpoints
+OLD_mainpy
+.pythonlibs/
+.local

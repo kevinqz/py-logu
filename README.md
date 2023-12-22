@@ -1,6 +1,6 @@
 # Logu SDK
 
-The `py-logu` library offers a powerful yet intuitive interface for integrating Logu's real-time monitoring and analytics capabilities into your Python applications. Designed with an emphasis on Developer Experience, it provides easy-to-use functionalities for logging events, identifying users, and gaining insights, all with real-time updates and custom notifications.
+The `pylogu` library offers a powerful yet intuitive interface for integrating Logu's real-time monitoring and analytics capabilities into your Python applications. Designed with an emphasis on Developer Experience, it provides easy-to-use functionalities for logging events, identifying users, and gaining insights, all with real-time updates and custom notifications.
 
 ## Key Features
 - **Developer-Friendly**: Straightforward setup and easy integration.
@@ -14,6 +14,21 @@ The `py-logu` library offers a powerful yet intuitive interface for integrating 
 Revolutionize your business with Logu – the epitome of simplicity and efficiency. Enjoy an unparalleled Developer Experience, an intuitive log interface, and customized notifications. Stay ahead with real-time insights. Logu isn't just a tool; it's your pathway to smarter, faster business decisions.
 
 Start using at: www.logu.app
+
+---
+
+# Setup
+## 0️⃣Install pylogu, the Logu Python SDK
+
+### Using pip
+```python
+pip install pylogu
+```
+
+### Using poetry
+```python
+poetry add pylogu
+```
 
 ---
 
