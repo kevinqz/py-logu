@@ -24,7 +24,6 @@ __init__.py/
 # These files are related to project dependencies, build configurations, and virtual environments.
 # Developers can recreate these files from project specifications and should not include them in the repo.
 .upm/
-.replit/
 ./venv/
 .poetry/
 Makefile
@@ -36,7 +35,9 @@ requirements.txt
 # These files store environment-specific or configuration information.
 # It's best to keep them out of the code repository to avoid exposing sensitive data.
 .upm/
+.replit/
 .replit.nix
+replit.nix
 .start.sh
 .env
 

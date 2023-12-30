@@ -1,1 +1,1 @@
-from .client import Logu
+from pylogu.client import Logu
