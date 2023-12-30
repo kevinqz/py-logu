@@ -18,7 +18,7 @@
 __pycache__/
 .cache/
 .log/
-__init__.py/
+# __init__.py/
 
 # Build and Dependency Files
 # These files are related to project dependencies, build configurations, and virtual environments.

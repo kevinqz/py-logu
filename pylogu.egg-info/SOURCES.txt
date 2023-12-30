@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+pylogu/__init__.py
+pylogu/client.py
+pylogu/http.py
+pylogu/setup.py
+pylogu.egg-info/PKG-INFO
+pylogu.egg-info/SOURCES.txt
+pylogu.egg-info/dependency_links.txt
+pylogu.egg-info/requires.txt
+pylogu.egg-info/top_level.txt
+pylogu/core/__init__.py
+pylogu/core/config.py

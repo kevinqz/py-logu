@@ -1,9 +1,8 @@
 Metadata-Version: 2.1
 Name: pylogu
-Version: 0.1.1
+Version: 0.2.3
 Summary: Logu - Python SDK
-Home-page: https://github.com/kevinqz/py-logu
+Home-page: https://github.com/kevinqz/pylogu
 Author: Kevin Saltarelli
 Author-email: kevinqz@gmail.com
 Requires-Python: >=3.7
-License-File: LICENSE.md
