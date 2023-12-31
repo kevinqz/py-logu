@@ -14,6 +14,7 @@ The `pylogu` library offers a powerful yet intuitive interface for integrating L
 Revolutionize your business with Logu – the epitome of simplicity and efficiency. Enjoy an unparalleled Developer Experience, an intuitive log interface, and customized notifications. Stay ahead with real-time insights. Logu isn't just a tool; it's your pathway to smarter, faster business decisions.
 
 Start using at: www.logu.app
+After creating your account, an API Key, a Project and a Channel, you can start using this: [Logu Example Usage Template](https://replit.com/@kevinqz/Logu-Template) hosted in a Replit Repl
 
 ---
 
