@@ -15,7 +15,7 @@ Revolutionize your business with Logu – the epitome of simplicity and efficien
 
 Start using at: www.logu.app
 
-After creating your account, an API Key, a Project and a Channel, you can start using this: [Logu Example Usage Template](https://replit.com/@kevinqz/Logu-Template) hosted in a Replit Repl
+After creating your account, an API Key, a Project and a Channel, you can start using this: [Logu Example Usage Template](https://replit.com/@kevinqz/Logu-Example-Usage-Template) hosted in a Replit Repl
 
 ---
 
